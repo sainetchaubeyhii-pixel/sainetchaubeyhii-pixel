@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi 👋, I'm Sainet Chaubey
 
-<!--
-**sainetchaubeyhii-pixel/sainetchaubeyhii-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Electronics & Instrumentation Engineering Student
 
-Here are some ideas to get you started:
+- 🔭 Currently working on RISC-V processors
+- 💻 RTL Design using SystemVerilog & Verilog
+- ⚡ Interested in VLSI, SoC & ASIC Design
+- 🧠 RISC-V RV32I enthusiast
+- 🛠️ Cadence Xcelium, Genus & Innovus
+- 🔌 AXI4-Lite, APB, SPI, UART & GPIO
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+
+- SystemVerilog
+- Verilog
+- RISC-V
+- RTL Design
+- SoC Design
+- ASIC Design
+- AXI4-Lite
+- APB
+- SPI
+- UART
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 RISC-V 5-Stage Processor
+RV32I pipelined processor designed in SystemVerilog.
+
+### 🔹 PicoRV32 SoC
+RISC-V based SoC with peripheral integration.
+
+### 🔹 Systolic Array
+2×2 / 4×4 MAC-based systolic array architecture.
+
+---
